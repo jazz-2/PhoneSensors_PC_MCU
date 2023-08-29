@@ -4,6 +4,7 @@
 
 ------------------
 ## Demonstration of sensor data reading
+![phoneSensors.gif](https://github.com/jazz-2/PhoneSensors_PC_MCU/assets/141406828/e55825de-a654-46ca-96a3-3fec587b71e2)
 
 
 **Tested on Arduino NANO 33 IoT, ESP32.**
